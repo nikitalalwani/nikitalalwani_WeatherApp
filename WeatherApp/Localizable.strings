@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  WeatherApp
+
+  Created by GlobalLogic on 27/05/16.
+  Copyright © 2016 GlobalLogic. All rights reserved.
+*/
+"CITY PLACEHOLDER" = "Enter the name of your city";
+"VIEW WEATHER"="View Weather";
